@@ -1,0 +1,7 @@
+{
+  "name": "mary-mixtape",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
