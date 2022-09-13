@@ -24,7 +24,6 @@ import WontYouTellMe from "../components/songs/wont-you-tell";
 import KillinMe from "../components/songs/killin-me";
 import ThatTree from "../components/songs/that-tree";
 import CallMeMoonMan from "../components/songs/call-me-moon";
-// import ExploreContainer from '../components/ExploreContainer';
 import "./Tab3.css";
 
 const Tab3: React.FC = () => {

@@ -1,6 +1,3 @@
-import React, { useState } from "react";
-import { IonButton } from "@ionic/react";
-
 interface ContainerProps {
   name: string;
 }
