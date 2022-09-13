@@ -1,7 +1,6 @@
 {
   "name": "mary-mixtape",
   "version": "0.0.1",
-  "homepage": "https://mhendricks96.github.io/mary-mixtape/",
   "private": true,
   "dependencies": {
     "@capacitor/app": "4.0.1",
@@ -42,8 +41,6 @@
     "workbox-streams": "^5.1.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --transformIgnorePatterns 'node_modules/(?!(@ionic/react|@ionic/react-router|@ionic/core|@stencil/core|ionicons)/)'",
