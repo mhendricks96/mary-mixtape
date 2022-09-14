@@ -66,7 +66,7 @@ const Tab3: React.FC = () => {
             <KnowWhy name="Know Why" />
           </IonItem>
           <IonItem>
-            <HipHopHooray name="Hip Hop Hooray" />
+            <HipHopHooray name="Hip-Hop Hooray" />
           </IonItem>
           <IonItem>
             <DoMyThing name="Do My Thing" />
