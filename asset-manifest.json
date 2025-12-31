@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mary-mixtape/static/css/main.df9813eb.css",
-    "main.js": "/mary-mixtape/static/js/main.7bbf8259.js",
+    "main.js": "/mary-mixtape/static/js/main.66a8ca6b.js",
     "static/js/806.dd24fe2a.chunk.js": "/mary-mixtape/static/js/806.dd24fe2a.chunk.js",
     "static/js/923.19968507.chunk.js": "/mary-mixtape/static/js/923.19968507.chunk.js",
     "static/js/627.d846aa12.chunk.js": "/mary-mixtape/static/js/627.d846aa12.chunk.js",
@@ -15,7 +15,7 @@
     "service-worker.js": "/mary-mixtape/service-worker.js",
     "index.html": "/mary-mixtape/index.html",
     "main.df9813eb.css.map": "/mary-mixtape/static/css/main.df9813eb.css.map",
-    "main.7bbf8259.js.map": "/mary-mixtape/static/js/main.7bbf8259.js.map",
+    "main.66a8ca6b.js.map": "/mary-mixtape/static/js/main.66a8ca6b.js.map",
     "806.dd24fe2a.chunk.js.map": "/mary-mixtape/static/js/806.dd24fe2a.chunk.js.map",
     "923.19968507.chunk.js.map": "/mary-mixtape/static/js/923.19968507.chunk.js.map",
     "627.d846aa12.chunk.js.map": "/mary-mixtape/static/js/627.d846aa12.chunk.js.map",
@@ -28,6 +28,6 @@
   },
   "entrypoints": [
     "static/css/main.df9813eb.css",
-    "static/js/main.7bbf8259.js"
+    "static/js/main.66a8ca6b.js"
   ]
 }
