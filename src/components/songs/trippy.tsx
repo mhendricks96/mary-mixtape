@@ -21,7 +21,7 @@ const Trippy: React.FC<ContainerProps> = ({ name }) => {
         height="315"
         src="https://www.youtube.com/embed/qTUUCJc4daM"
         title="YouTube video player"
-        frameBorder="0"
+        style={{ border: 'none' }}
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowFullScreen
       ></iframe>
