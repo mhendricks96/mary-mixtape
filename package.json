@@ -1,7 +1,7 @@
 {
   "name": "mary-mixtape",
   "version": "0.0.1",
-  "homepage": "https://mhendricks96.github.io/mary-mixtape/build",
+  "homepage": "https://mhendricks96.github.io/mary-mixtape",
   "private": true,
   "dependencies": {
     "@ionic/react": "^8.7.15",
