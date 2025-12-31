@@ -38,13 +38,13 @@ setupIonicReact();
 
 const App: React.FC = () => (
   <IonApp>
-    <IonReactRouter>
+    <IonReactRouter basename="/mary-mixtape">
       <IonTabs>
         <IonRouterOutlet>
           <Route exact path="/tab1" component={Tab1} />
           <Route exact path="/tab2" component={Tab2} />
           <Route exact path="/tab3" component={Tab3} />
-          <Redirect exact from="/" to="/tab1" />
+          <Redirect exact from="/" to="/tab2" />
           <Redirect to="/tab2" />
         </IonRouterOutlet>
         <IonTabBar slot="bottom">
